@@ -71,18 +71,16 @@ Estruturas de Dados: Vetores estáticos (Arrays) com manipulação de índices e
 🚀 Como Executar
 Certifique-se de ter o .NET SDK instalado em sua máquina.
 
-Clone o repositório:
-
-Bash
-
-
+## Clone o repositório:
+´´´´
 git clone [https://github.com/juliavvz/sistema-pedidos-restaurante.git](https://github.com/juliavvz/sistema-pedidos-restaurante.git)
-Navegue até a pasta do código-fonte:
 
-Bash
+´´´´
+## Navegue até a pasta do código-fonte:
 
-
+´´´´
 cd sistema-pedidos-restaurante/src
+´´´´
 Execute o programa:
 
 Bash
