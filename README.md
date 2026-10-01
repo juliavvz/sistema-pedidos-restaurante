@@ -16,47 +16,6 @@ Projeto em C# desenvolvido para a disciplina de Estrutura de Dados 2 (CBTEDD2). 
 
 ---
 
-## 📁 Estrutura do Repositório
-
-sistema-pedidos-restaurante/
-├── src/
-│   └── main.cs
-└── README.md
-
-Plaintext
-
-
-+---------------------+
-| Item                |
-+---------------------+
-| - id: int           |
-| - descricao: string |
-| - preco: double     |
-+---------------------+
-
-+----------------------------------+
-| Pedido                           |
-+----------------------------------+
-| - id: int                        |
-| - cliente: string                |
-| - itens: Item[10]                |
-+----------------------------------+
-| + adicionarItem(Item item): bool |
-| + removerItem(Item item): bool   |
-| + dadosDoPedido(): string        |
-| + calcularTotal(): double        |
-+----------------------------------+
-
-+---------------------------------------+
-| Restaurante                           |
-+---------------------------------------+
-| - proxPedido: int                     |
-| - pedidos: Pedido[50]                 |
-+---------------------------------------+
-| + novoPedido(Pedido pedido): bool     |
-| + buscarPedido(Pedido pedido): Pedido |
-| + cancelarPedido(Pedido pedido): bool |
-+---------------------------------------+
 
 ## 🛠️ Tecnologias e Conceitos Utilizados
 
