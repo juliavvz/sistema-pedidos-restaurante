@@ -23,9 +23,8 @@ sistema-pedidos-restaurante/
 │   └── main.cs
 └── README.md
 
----
+Plaintext
 
-## 📐 Diagrama de Classes
 
 +---------------------+
 | Item                |
@@ -58,8 +57,6 @@ sistema-pedidos-restaurante/
 | + buscarPedido(Pedido pedido): Pedido |
 | + cancelarPedido(Pedido pedido): bool |
 +---------------------------------------+
-
----
 
 ## 🛠️ Tecnologias e Conceitos Utilizados
 
